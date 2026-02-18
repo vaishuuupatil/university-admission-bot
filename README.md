@@ -45,6 +45,7 @@ Conversational chatbot interface
 
 ▶️ How to Run
 pip install -r requirements.txt
+pip install flask flask-cors
 python app.py
 
 🔮 Future Enhancements
